@@ -70,9 +70,9 @@ export default {
     data() {
         return {
             projects: [
-                { title: "Tictactoe", description: "Real time tictactoe server.", link: "https://github.com/maxthedog21/jetMan" },
+                { title: "Tictactoe", description: "Real time tictactoe server.", link: "https://github.com/maxthedog21/ticktacktoe" },
                 { title: "Spolaxy", description: "Animated Spotify Client.", link: "https://github.com/maxthedog21/spolaxy" },
-                { title: "Mobile Animation", description: "Jetpack compose animations.", link: "https://github.com/maxthedog21/ticktacktoe" },
+                { title: "Mobile Animation", description: "Jetpack compose animations.", link: "https://github.com/maxthedog21/jetMan" },
             ]
         }
     }
